@@ -12,10 +12,6 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/makssdev/count.svg?"  />
-
-###
-
 <!--
 **makssdev/makssdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
